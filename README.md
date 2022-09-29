@@ -2,20 +2,13 @@
 
 ## Contributors:
 
-**Ian Shuman**
-
-ishuman2@nd.edu
-
+**Ian Shuman** <br />
+ishuman2@nd.edu <br />
 815-353-9840
 
-
-**Manar Alkuzweny**
-
+**Manar Alkuzweny** <br />
 malkuzweny@nd.edu
 
-
-**Puja Sharma**
-
-psharma2@nd.edu
-
+**Puja Sharma** <br />
+psharma2@nd.edu <br />
 574-386-1008
