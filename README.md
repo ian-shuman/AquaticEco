@@ -1,23 +1,14 @@
 # AquaticEco
 
-##Contributors:
+## Contributors:
 
-Ian Shuman
-
+**Ian Shuman**
 ishuman2@nd.edu
-
 815-353-9840
 
-
-Manar Alkuzweny
-
+**Manar Alkuzweny**
 malkuzweny@nd.edu
 
-858-945-5419
-
-
-Puja Sharma
-
+**Puja Sharma**
 psharma2@nd.edu
-
 574-386-1008
