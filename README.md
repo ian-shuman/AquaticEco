@@ -13,7 +13,7 @@ malkuzweny@nd.edu
 psharma2@nd.edu <br />
 574-386-1008
 
-**Chathuranga Senevirathne**
-csenevirathne@nd.edu
+**Chathuranga Senevirathne**<br />
+csenevirathne@nd.edu <br />
 419-378-1800
 
