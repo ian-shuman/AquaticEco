@@ -12,3 +12,8 @@ malkuzweny@nd.edu
 **Puja Sharma** <br />
 psharma2@nd.edu <br />
 574-386-1008
+
+**Chathuranga Senevirathne**
+csenevirathne@nd.edu
+419-378-1800
+
